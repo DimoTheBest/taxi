@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int maon() {
+int main() {
 
 	return 0;
 }
